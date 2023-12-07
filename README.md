@@ -9,7 +9,7 @@ Introducing you "Snake Game" - my first game by python and so ever.
 . activate - `.\venv\Scripts\activate`
 
 3. Clone this repo \
-. `git clone https://github.com/ArmanPythonistGhandilyandjango_currency_convertor.git`
+. `git clone https://github.com/ArmanPythonistGhandilyansnake_game.git`
 
 4. Install single requirement \
 .  `pip install pygame`
